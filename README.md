@@ -1,4 +1,4 @@
-folkiz
+Folkiz
 ======
 
 Folkiz Projects/Modules Development
